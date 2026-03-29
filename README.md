@@ -160,8 +160,6 @@ Data parsing
 Embedded systems
 Real-time UI rendering
 
-If you want, the next useful upgrade is turning this into a continuous seamless ticker (no reset jump at all) or extending it into a multi-device dashboard system.
-
 Data Sources Used
 Crypto:
 CoinGecko API
