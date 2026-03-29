@@ -1,0 +1,6 @@
+Notes on dependencies
+flask requests
+pip install flask requests
+python3 server.py
+url example =  http://<your-computer-ip>:5000/price
+url example =  http://192.168.8.130:5000/price
