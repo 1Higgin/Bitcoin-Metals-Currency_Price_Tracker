@@ -6,11 +6,11 @@
 #include <Adafruit_SSD1306.h>
 
 // ---------- WIFI ----------
-const char* ssid = "HUAWEI-B535-A157";
-const char* password = "7G14LT1GQB3";
+const char* ssid = "YOUR_SSID";
+const char* password = "PASSWORD";
 
 // ---------- SERVER ----------
-String serverUrl = "http://192.168.8.129:5000/price";
+String serverUrl = "http://192.168.8.130:5000/price";
 
 // ---------- OLED ----------
 #define SCREEN_WIDTH 128
